@@ -1,5 +1,5 @@
 # PathFinding-Introduction-to-Programing-Project
-File Handling Project Through C++
+<h1>File Handling Project Through C++</h1>
 
   In this assignment, a file named output.txt will be produced by reading the information in the input.txt file located in the same directory as the application. The application will not receive any information through the console interface. After it is opened, it should read the input.txt file in the folder it is in and write the result to output.txt.
   
@@ -14,9 +14,9 @@ File Handling Project Through C++
   
   Below are sample input.txt and output.txt file contents.
   
-  <h1>Example 1:</h1>
+  <h1>Example 1</h1>
   
-  Content of input.txt:
+  <h2>Content of input.txt</h2>
   
 A1,A2,B1,B2,B3\
 Links:\
@@ -32,7 +32,7 @@ AAB\
 ABB\
 ABBAAB
 
-  Content of output.txt:
+  <h2>Content of output.txt </h2>
 
 AAB [YES]\
 ABB [YES]\
@@ -40,7 +40,7 @@ ABBAAB [YES]
 
   Example 2:
   
-  Content of input.txt:
+  <h2>Content of input.txt</h2>
 
 A1,B1,C1,D1,D2,E1\
 Links:\
@@ -59,7 +59,7 @@ DEC\
 CDE\
 DDEC
 
-  Content of output.txt:
+ <h2> Content of output.txt:</h2>
   
 CBA [NO]\
 CB [YES]\
