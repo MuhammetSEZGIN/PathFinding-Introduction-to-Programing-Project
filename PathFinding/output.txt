@@ -1,0 +1,6 @@
+CBA no
+CB yes
+ACB yes
+DEC yes
+CDE no
+DDEC yes
