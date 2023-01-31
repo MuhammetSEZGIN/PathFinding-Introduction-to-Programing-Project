@@ -14,9 +14,9 @@ File Handling Project Through C++
   
   Below are sample input.txt and output.txt file contents.
   
-  Example 1:
+  #Example 1:
   
-  Content of input.txt:
+  ##Content of input.txt:
   
 A1,A2,B1,B2,B3\
 Links:\
@@ -32,15 +32,15 @@ AAB\
 ABB\
 ABBAAB
 
-  Content of output.txt:
+  ##Content of output.txt:
 
 AAB [YES]\
 ABB [YES]\
 ABBAAB [YES]
 
-  Example 2:
+  #Example 2:
   
-  Content of input.txt:
+  ##Content of input.txt:
 
 A1,B1,C1,D1,D2,E1\
 Links:\
@@ -59,7 +59,7 @@ DEC\
 CDE\
 DDEC
 
-  Content of output.txt:
+  ##Content of output.txt:
   
 CBA [NO]\
 CB [YES]\
