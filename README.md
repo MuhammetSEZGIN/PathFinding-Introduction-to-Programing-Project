@@ -30,17 +30,17 @@ B3->A1\
 Paths:\
 AAB\
 ABB\
-ABBAAB\
+ABBAAB
 
-  Content of output.txt:\
+  Content of output.txt:
 
 AAB [YES]\
 ABB [YES]\
-ABBAAB [YES]\
+ABBAAB [YES]
 
-  Example 2:\
+  Example 2:
   
-  Content of input.txt:\
+  Content of input.txt:
 
 A1,B1,C1,D1,D2,E1\
 Links:\
@@ -57,16 +57,16 @@ CB\
 ACB\
 DEC\
 CDE\
-DDEC\
-\
-  Content of output.txt:\
+DDEC
+
+  Content of output.txt:
   
 CBA [NO]\
 CB [YES]\
 ACB [YES]\
 DEC [YES]\
 CDE [NO]\
-DDEC [YES]\
+DDEC [YES]
 
 
 
